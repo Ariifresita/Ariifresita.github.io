@@ -32,4 +32,4 @@ Las contribuciones a este proyecto son bienvenidas. Si deseas agregar nuevas car
 
 ## Autor
 
-Este proyecto ha sido creado por Juan Avilés.
+Este proyecto ha sido creado por Ariana.
